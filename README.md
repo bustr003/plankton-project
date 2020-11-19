@@ -1,7 +1,7 @@
 # plankton-project
 Fab Friday CSUSM, Oct 2020 - Dec 2020
 
-Project Owner: Dr. Taniguchi
+Project Owner: Dr. Darcy Taniguchi
 
 Mentor: Dr. Youwen Ouyang
 
